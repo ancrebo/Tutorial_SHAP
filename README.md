@@ -1,6 +1,5 @@
 -----------------------------------------------------------------------------------------------------------------
 Tutorial for SHAP application in image classification
-
 -----------------------------------------------------------------------------------------------------------------
 
 This tutorial is a modification of the presented tutorial in https://shap.readthedocs.io/en/latest/index.html
